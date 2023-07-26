@@ -1,0 +1,17 @@
+Date: Wed, 26 Jul 2023 20:13:23 +0000
+MD5Sum:
+ 68147364b6e49c3657f0cae43a9afb72              333 Packages
+ 968aa36ef016d9488a1b94cac299803b              273 Packages.gz
+ 7669667d77c6e28aa39a54ec0a15f031               38 Release
+SHA1:
+ 37d77f2bfb62979885227c88b6da4ea6cc36e555              333 Packages
+ b149107b9774363759abfe2d8f4a3d7d46b865ac              273 Packages.gz
+ 42873c27b556de13ef49286da3f9b6fd9ed1855a               38 Release
+SHA256:
+ 43708e5646fa90a4e488cb857d0f081d79072b32fa68067409263a632ae5c490              333 Packages
+ 534d0903afcdc88034a599f040f6db86c079c19b6d1e1577f771721c82f33d1c              273 Packages.gz
+ 8bfcae89daa5be6d731bb9eeb07b6c4c678c4aea58ce94c0e67f29a5f2aa6c0d               38 Release
+SHA512:
+ 9583d879bf63c8e8e56271157e9d0f8c38dedca51d8e19c540e1198cf2e7ed0b09cbf49c8567619db3cce0c59bd177a94dbae8f8e560c3bbb44d07add20daa7c              333 Packages
+ 18e11e63c115ff6cfc713ba51b3c0ec500bb1faa8f01dc78a4be64a79ebc252efcd3017ffa8bb65b553eedbfd9c795cb7ea1fb15c1ec752f3f1d27ccb8f70ded              273 Packages.gz
+ 4364917f0943b5e753edf0328696fc1233046ebcb185004c8a81eb3b5149a5e78564326f4982be3d40dca7b02b118a7f4dd754737ad5aa0e1a7f4cc11122b393               38 Release

@@ -1,0 +1,13 @@
+Package: rseditor
+Version: 1.01
+Architecture: amd64
+Maintainer: Sergey
+Filename: ./RsEditor-1.01.deb
+Size: 17401068
+MD5sum: b29bbc03bceaf6b5457ae76c161c1c48
+SHA1: 27ba26a9ddd57ea38ba9231ad12236b09bee712f
+SHA256: d5ed502528e7f3f98c068040982db2624f5eb3b00e9c6ac8c4ea1d962be07b43
+Section: misc
+Description: Editor
+ Editor with scripts
+
