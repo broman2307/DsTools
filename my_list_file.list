@@ -1,1 +1,1 @@
-deb https://broman2307.github.io/DsTools ./
+deb [signed-by=/etc/apt/trusted.gpg.d/DsTools.gpg] https://broman2307.github.io/DsTools ./
